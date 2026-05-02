@@ -1,0 +1,19 @@
+# Intermediate grid search and submission files
+data/gbsa_grid_search.csv
+data/submission_v38.csv
+data/grid_search_rsf_results.npy
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Archive notebooks
+notebooks/main_notebook_XGB.ipynb
+notebooks/Main_Notebook3.ipynb
+notebooks/Main_Notebook2.ipynb
+notebooks/KNN.ipynb
+notebooks/KNN_Continued.ipynb
+notebooks/Final_Notebook_Not.ipynb
+notebooks/Most_Recent_WiDS.ipynb
+notebooks/MainNotebook4.ipynb
